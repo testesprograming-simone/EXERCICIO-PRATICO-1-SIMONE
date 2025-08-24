@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Horário de Aulas</title>
+</head>
+<body>
+  <h2>Horário de Aulas</h2>
+  <table border="1" cellpadding="8">
+    <tr>
+      <th>Disciplina</th>
+      <th>Professor</th>
+      <th>Horário</th>
+    </tr>
+    <tr>
+      <td>Matemática</td>
+      <td>Prof. Silva</td>
+      <td>08:00 - 09:00</td>
+    </tr>
+    <tr>
+      <td>Português</td>
+      <td>Profa. Maria</td>
+      <td>09:00 - 10:00</td>
+    </tr>
+    <tr>
+      <td>História</td>
+      <td>Prof. João</td>
+      <td>10:15 - 11:15</td>
+    </tr>
+    <tr>
+      <td>Ciências</td>
+      <td>Profa. Ana</td>
+      <td>11:15 - 12:15</td>
+    </tr>
+  </table>
+</body>
+</html>
